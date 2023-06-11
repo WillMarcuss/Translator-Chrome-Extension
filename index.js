@@ -1,6 +1,5 @@
 const apiKey = 'YOUR_KEY';
 
-
 function translate(){
     const text = document.getElementById("first").value
     const sourceLang = document.getElementById("TF").value;
