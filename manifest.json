@@ -1,0 +1,11 @@
+{
+    "name": "Translator",
+    "version": "1.0.1",
+    "description": "Translate text",
+    "manifest_version": 3,
+    "author": "William Marcus",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Translator"
+    }
+}
